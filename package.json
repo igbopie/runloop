@@ -1,5 +1,5 @@
 {
-  "name": "@ember-decorators/runloop",
+  "name": "ember-decorators-runloop",
   "version": "0.0.0",
   "description": "The default blueprint for ember-cli addons.",
   "keywords": [
